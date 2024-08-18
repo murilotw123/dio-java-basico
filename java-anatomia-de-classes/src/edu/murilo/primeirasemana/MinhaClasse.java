@@ -1,4 +1,4 @@
-package edu.murilo.segundasemana;
+package edu.murilo.primeirasemana;
 
 public class MinhaClasse{
 
